@@ -7,6 +7,7 @@ if you wanna play eaglercraft locally, its in releases
 https://crazygames.com
 https://discord.com
 https://now.gg
+https://zombsroyale.io
 
 you can also clone this to make your own copy of the web version of eaglercraft!
 
